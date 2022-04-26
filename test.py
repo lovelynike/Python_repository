@@ -1,6 +1,6 @@
 print("hello, world")
 
-professor = "KANG JAEUN"
+professor = "JAKE KANG, 20220426_1135"
 print(professor)
 
 a=7
